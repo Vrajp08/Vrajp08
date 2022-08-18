@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vrajp08&label=Profile%20views&color=0e75b6&style=flat" alt="vrajp08" /> </p>
 
+- 👨‍💻 Full Stack **MERN developer**
+
 - 🌱 I’m currently learning **React Native, devops**
 
 - 👯 I’m looking to collaborate on **React**
