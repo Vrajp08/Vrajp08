@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine learning**
 
-- 👯 I’m looking to collaborate on **good first issue**
+- 👯 I’m looking to collaborate on **React**
 
 - 💬 Ask me about **React, MEARN**
 
